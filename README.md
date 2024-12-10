@@ -5,12 +5,12 @@ This script will play audio on your desktop for a software like stereotool to th
 
 To run, you need the following python modules (some of which are included in python by default) and python 3.10.0 is recommended (that is the version I wrote this in):
 
-json
-random
-paramiko
-time
-pygame
-os
+```json```
+```random```
+```paramiko```
+```time```
+```pygame```
+```os```
 
 To install these, you can simply run ```pip install <module_name>```
 
